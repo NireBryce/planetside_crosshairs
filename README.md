@@ -9,7 +9,7 @@ Guess-and-check projectile drop crosshair images for Recursion Tracker
 ## Description:
 This is meant to be used with the crosshair overlay module for https://recursiontracker.com/
 
-Place wherever you place your own crosshairs, then use the crosshair mod options to select it.
+Finding the crosshair path and where to put it is in the ['installation'](#-installation) section
 
 It gives you a mechanism for trial-and-error drop compensation/[Kentucky Windage](https://en.wikipedia.org/wiki/Windage#Ballistics)
 
@@ -30,3 +30,26 @@ Hipfire:
 ADS:
 
 ![ADS crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/example-ads.png)
+
+### Installation
+
+open the mod pane in recursion and click the crosshair overlay module
+
+![step 1](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/1.png)
+
+
+
+
+
+![step 2](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/2.png)
+
+
+select 'crosshair' in the 'components' section of the crosshair overlay mod
+
+![step 3](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/3.png)
+
+
+Hit configure button, and then find the location of your crosshairs folder.  This is where you want to place these files.
+
+![step 4](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/4.png)
+![step 5](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/5.png)
