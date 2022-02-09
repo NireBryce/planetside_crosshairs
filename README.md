@@ -13,3 +13,9 @@ I only have a 1080p monitor, so I have a feeling all higher resolutions will be 
 A lot of people can estimate this based on their muscle memory, this evens the playing field and also allows me personally to reduce cognitive load because I can just go 'ok, thumper's hitting, I just have to hold at 5 to hit the same spot'.  
 
 You can call that cheating, but I don't see how it is any more than the monitors or programs which can give you a mildot crosshair, and because those exist and can't be checked for, this needs to too or people without those cannot compete at a similar level.
+
+### Examples:
+
+Hipfire:
+!(https://github.com/NireBryce/planetside_crosshairs/blob/main/example.png)
+!(https://github.com/NireBryce/planetside_crosshairs/blob/main/example-ads.png)
