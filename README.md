@@ -1,8 +1,15 @@
 # planetside_crosshairs
-guess-and-check projectile drop crosshair images for Recursion Tracker
 
+Guess-and-check projectile drop crosshair images for Recursion Tracker
 
+## TODO:
+- fix folder structure
+- change names
+
+## Description:
 This is meant to be used with the crosshair overlay module for https://recursiontracker.com/
+
+Place wherever you place your own crosshairs, then use the crosshair mod options to select it.
 
 It gives you a mechanism for trial-and-error drop compensation/[Kentucky Windage](https://en.wikipedia.org/wiki/Windage#Ballistics)
 
