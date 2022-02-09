@@ -17,5 +17,9 @@ You can call that cheating, but I don't see how it is any more than the monitors
 ### Examples:
 
 Hipfire:
-!(https://github.com/NireBryce/planetside_crosshairs/blob/main/example.png)
-!(https://github.com/NireBryce/planetside_crosshairs/blob/main/example-ads.png)
+
+![Hipfire crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/example.png)
+
+ADS:
+
+![ADS crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/example-ads.png)
