@@ -9,7 +9,7 @@ Guess-and-check projectile drop crosshair images for Recursion Tracker
 ## Description:
 This is meant to be used with the crosshair overlay module for https://recursiontracker.com/
 
-Finding the crosshair path and where to put it is in the ['installation'](#-installation) section
+Finding the crosshair path and where to put it is in the Installation section below.
 
 It gives you a mechanism for trial-and-error drop compensation/[Kentucky Windage](https://en.wikipedia.org/wiki/Windage#Ballistics)
 
@@ -25,11 +25,11 @@ You can call that cheating, but I don't see how it is any more than the monitors
 
 Hipfire:
 
-![Hipfire crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/example.png)
+![Hipfire crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/example.png)
 
 ADS:
 
-![ADS crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/example-ads.png)
+![ADS crosshairs](https://github.com/NireBryce/planetside_crosshairs/blob/main/instruction%20materials/example-ads.png)
 
 ### Installation
 
